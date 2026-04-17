@@ -1,4 +1,4 @@
-from .user_change import UserChangeForm
-from .user_create import UserCreationForm
+from .user_change import CustomUserChangeForm
+from .user_create import CustomUserCreationForm
 
-__all__ = ["UserCreationForm", "UserChangeForm"]
+__all__ = ["CustomUserCreationForm", "CustomUserChangeForm"]
