@@ -19,7 +19,7 @@ django-crispy-forms==2.6
 gunicorn==25.1.0
 markdown==3.10.2
     # via projname
-nh3==0.3.3
+nh3==0.3.4
     # via projname
 packaging==26.0
     # via gunicorn
