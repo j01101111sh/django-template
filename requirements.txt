@@ -21,7 +21,7 @@ markdown==3.10.2
     # via projname
 nh3==0.3.4
     # via projname
-packaging==26.0
+packaging==26.1
     # via gunicorn
 psycopg==3.3.3
 psycopg-binary==3.3.3 ; implementation_name != 'pypy'
