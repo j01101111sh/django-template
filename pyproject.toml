@@ -32,7 +32,7 @@ dev = [
 ]
 prod = [
     "gunicorn>=25.3.0",
-    "psycopg[binary]>=3.3.2",
+    "psycopg[binary]>=3.3.4",
 ]
 
 [tool.ruff]
