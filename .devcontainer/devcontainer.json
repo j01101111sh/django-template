@@ -8,6 +8,7 @@
     "vscode": {
       "settings": {
         "python.defaultInterpreterPath": "/usr/local/bin/python",
+        "python-envs.defaultEnvManager": "ms-python.python:system",
         "python.terminal.activateEnvironment": true,
         "editor.formatOnSave": true,
         "python.testing.unittestEnabled": false,
