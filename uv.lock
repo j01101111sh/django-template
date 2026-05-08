@@ -578,7 +578,7 @@ dev = [
 ]
 prod = [
     { name = "gunicorn", specifier = ">=25.3.0" },
-    { name = "psycopg", extras = ["binary"], specifier = ">=3.3.2" },
+    { name = "psycopg", extras = ["binary"], specifier = ">=3.3.4" },
 ]
 
 [[package]]
