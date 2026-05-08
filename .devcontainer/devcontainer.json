@@ -22,7 +22,6 @@
         "batisteo.vscode-django",
         "charliermarsh.ruff",
         "esbenp.prettier-vscode",
-        "ms-python.isort",
         "ms-python.debugpy",
         "ms-python.vscode-python-envs",
         "tamasfe.even-better-toml",
