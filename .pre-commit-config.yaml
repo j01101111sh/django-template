@@ -74,9 +74,10 @@ repos:
         types: [python]
       - id: mypy
         name: mypy
-        entry: uv run mypy --strict
+        entry: uv run mypy --strict .
         language: system
         types: [python]
+        pass_filenames: false
       - id: uv
         name: uv
         entry: uv sync
